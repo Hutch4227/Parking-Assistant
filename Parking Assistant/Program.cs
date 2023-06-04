@@ -7,3 +7,4 @@ Console.WriteLine("Hello, World");
 Console.WriteLine("Coding is hard");
 Console.WriteLine("Fingers crossed");
 Console.WriteLine("Fingers crossed");
+Console.WriteLine("Coding is hard again");
