@@ -8,3 +8,28 @@ Console.WriteLine("Coding is hard");
 Console.WriteLine("Fingers crossed");
 Console.WriteLine("Fingers crossed");
 Console.WriteLine("Test1 fro Charles");
+
+class ParkingMeter
+{
+
+}
+
+class Customer
+{
+
+}
+
+class LotSensor
+{
+
+}
+
+class EventLog
+{
+
+}
+
+class CardInformation
+{
+
+}
