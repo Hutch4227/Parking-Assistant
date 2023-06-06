@@ -1,25 +1,27 @@
-﻿
-class ParkingMeter
+﻿namespace ParkingAssistantApplication
 {
+    class ParkingMeter
+    {
 
-}
+    }
 
-class Customer
-{
+    class Customer
+    {
 
-}
+    }
 
-class LotSensor
-{
+    class LotSensor
+    {
 
-}
+    }
 
-class EventLog
-{
+    class EventLog
+    {
 
-}
+    }
 
-class CardInformation
-{
+    class CardInformation
+    {
 
+    }
 }
