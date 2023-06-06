@@ -1,4 +1,14 @@
-﻿namespace ParkingAssistantApplication
+﻿
+
+
+
+
+
+
+
+
+
+namespace ParkingAssistantApplication
 {
     class ParkingMeter
     {
